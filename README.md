@@ -1,1 +1,1 @@
-# TradingBot
+# OpenSea AutoUpload Method
