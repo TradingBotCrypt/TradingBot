@@ -1,1 +1,1 @@
-# OpenSea AutoUpload Method
+# Metamask Tradung Bots
